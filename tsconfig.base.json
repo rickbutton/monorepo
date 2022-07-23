@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "lib": ["es6"],
+        "composite": true,
+        "incremental": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "moduleResolution": "node",
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "skipDefaultLibCheck": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "isolatedModules": true
+    }
+}

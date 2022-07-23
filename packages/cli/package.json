@@ -1,0 +1,13 @@
+{
+    "name": "@my-org/cli",
+    "version": "0.0.1",
+    "main": "index.js",
+    "scripts": {
+    },
+    "dependencies": {
+        "@my-org/core": "0.0.1"
+    },
+    "devDependencies": {
+        "@types/node": "^18.0.6"
+    }
+}
