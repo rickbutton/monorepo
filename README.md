@@ -25,3 +25,20 @@ pnpm install
 # runs tsc+esbuild in watch mode
 pnpm dev
 ```
+
+### test
+
+```
+pnpm test
+
+# watch mode
+pnpm test:watch
+```
+
+### versioning+publishing
+
+TODO
+
+### package templates
+
+TODO
