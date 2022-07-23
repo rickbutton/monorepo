@@ -3,4 +3,4 @@
 
 pnpm prettier:check
 pnpm lint
-pnpm tsc
+pnpm typecheck
